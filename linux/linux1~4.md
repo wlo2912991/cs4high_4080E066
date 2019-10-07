@@ -8,7 +8,8 @@ base64.txt  flag  hex.txt
 ## 第一題解答
 
 ```
-cat flag
+lab@29d4cf5af0ab:~$ cat flag
+BreakALLCTF{Sobkjgd14VuIFBUtgVts}
 ```
 
 ## 第三題解答
