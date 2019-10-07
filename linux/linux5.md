@@ -1,4 +1,6 @@
-# find
+# 第五題解法
+
+## find (搜尋)
 
 ```
 lab@29d4cf5af0ab:~$ find / -name secret
