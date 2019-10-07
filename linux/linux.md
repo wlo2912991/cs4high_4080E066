@@ -11,6 +11,21 @@ base64.txt  flag  hex.txt
 cat flag
 ```
 
+## 第三題解答
+
+```
+cat hex.txt
+
+
+lab@29d4cf5af0ab:~$ cat hex.txt
+427265616b414c4c4354467b474955574f3172704d684a434a704143765677727d
+
+lab@29d4cf5af0ab:~$ xxd -r -p hex.txt(直接轉換)
+BreakALLCTF{GIUWO1rpMhJCJpACvVwr}lab@29d4cf5af0ab:~$
+
+
+```
+
 ### ls -l
 
 ```
