@@ -5,7 +5,7 @@ lab@29d4cf5af0ab:~$ ls
 base64.txt  flag  hex.txt
 ```
 
-##第一題解答
+## 第一題解答
 ```
 cat flag
 ```
@@ -19,7 +19,7 @@ cat flag
 
 ```
 
-###ls -al
+### ls -al
 
 ```
 lab@29d4cf5af0ab:~$ ls -al
@@ -35,7 +35,7 @@ drwxr-xr-x 1 root root 4096 Apr 26 14:48 ..
 -rw-rw-r-- 1 root root   68 Nov 20  2017 hex.txt
 ```
 
-###ls -Al
+### ls -Al
 
 ```
 lab@29d4cf5af0ab:~$ ls -Al
@@ -49,19 +49,19 @@ total 28
 -rw-rw-r-- 1 root root   68 Nov 20  2017 hex.txt
 ```
 
-##第二題解答
+## 第二題解答
 
 ``` 
 cat .hidden
 ```
 
-#指令與指令參數
+# 指令與指令參數
 ```
 command(指令) lind
 options 參數
 ```
 
-###ls 詳細參數
+### ls 詳細參數
 
 ```
 lab@29d4cf5af0ab:~$ ls --help
