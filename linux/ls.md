@@ -4,6 +4,8 @@
 lab@29d4cf5af0ab:~$ ls
 base64.txt  flag  hex.txt
 ```
+
+##第一題解答
 ```
 cat flag
 ```
@@ -47,10 +49,19 @@ total 28
 -rw-rw-r-- 1 root root   68 Nov 20  2017 hex.txt
 ```
 
-指令與指令參數
-command(指令) lind
+##第二題解答
 
-ls 詳細參數
+``` 
+cat .hidden
+```
+
+#指令與指令參數
+```
+command(指令) lind
+options 參數
+```
+
+###ls 詳細參數
 
 ```
 lab@29d4cf5af0ab:~$ ls --help
