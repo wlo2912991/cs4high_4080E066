@@ -50,7 +50,6 @@ total 28
 指令與指令參數
 command(指令) lind
 
-
 ls 詳細參數
 
 ```
@@ -60,10 +59,10 @@ List information about the FILEs (the current directory by default).
 Sort entries alphabetically if none of -cftuvSUX nor --sort is specified.
 
 Mandatory arguments to long options are mandatory for short options too.
-  -a, --all                  do not ignore entries starting with .
-  -A, --almost-all           do not list implied . and ..
+  -a, --all(全部)                  do not ignore entries starting with .
+  -A, --almost-all (幾乎所有)          do not list implied . and ..
       --author               with -l, print the author of each file
-  -b, --escape               print C-style escapes for nongraphic characters
+  -b, --escape (避開)            print C-style escapes for nongraphic characters
       --block-size=SIZE      scale sizes by SIZE before printing them; e.g.,
                                '--block-size=M' prints sizes in units of
                                1,048,576 bytes; see SIZE format below
