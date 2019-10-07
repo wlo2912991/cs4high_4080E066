@@ -26,6 +26,13 @@ BreakALLCTF{GIUWO1rpMhJCJpACvVwr}lab@29d4cf5af0ab:~$
 
 ```
 
+## 第四題解答
+
+``` 
+ lab@29d4cf5af0ab:~$ base64 -d base64.txt (直接轉換)
+BreakALLCTF{XvXeVX5Ae9FwnYmDV2jU}lab@29d4cf5af0ab:~$
+```
+
 ### ls -l
 
 ```
