@@ -126,3 +126,27 @@ root@kali:/ksu# pwd
 /ksu
 ```
 
+## 實戰
+```
+(1) kari linux 跟目錄建立python資料夾
+
+root@kali:~# cd ..
+root@kali:/# mkdir python
+root@kali:/# ls
+0     etc             ksu    libx32      opt     run   tmp      vmlinuz.old
+bin   home            lib    lost+found  proc    sbin  usr
+boot  initrd.img      lib32  media       python  srv   var
+dev   initrd.img.old  lib64  mnt         root    sys   vmlinuz
+root@kali:/# 
+
+
+(2)下載python課本範例程式https://www.flag.com.tw/bk/ex/f9751
+
+
+root@kali:/# gedit test1.py
+root@kali:/# python3 test1.py
+Welcome to the Mashup Game!
+Enter one full name(FIRST LAST): 20
+Enter another full name(FIRST LAST): 23
+
+```
