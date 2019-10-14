@@ -1,3 +1,4 @@
+```
 print("hello!")
 print(3*2*(17-2.1))
 print("abc"+"def")
@@ -8,8 +9,9 @@ hello!
 89.4
 abcdef
 ant
+```
 
-
+```
 a= 1
 b= 2
 c = a/b
@@ -20,14 +22,15 @@ print(add)
 1 / 2 = 0.5
 1/2=0.5
 
-
+```
+```
 input("Where do you live? ")
 print("I live in Boston. ")
 
 Where do you live? 
 I live in Boston. 
-
-
+```
+```
 user_place = input("Where do you live? ")
 text = user_place.capitalize()+ "!"
 print(text) 
@@ -37,8 +40,8 @@ Where do you live?
 !
 I hear it's nice there!
 
-
-
+```
+```
 num = int(input ("Enter a number to find the square of: "))
 user_input = input("Enter a integer to find the square of: ")
 num = int(user_input) 
@@ -48,8 +51,8 @@ Enter a number to find the square of: 5
 Enter a integer to find the square of: 9
 81
 
-
-
+```
+```
 num1 = float(input("Enter a number: "))
 num2 = float(input("Enter another number: "))
 print(num1, "*", num2, "=", num1*num2)
@@ -57,4 +60,4 @@ print(num1, "*", num2, "=", num1*num2)
 Enter a number: 9
 Enter another number: 6
 9.0 * 6.0 = 54.0
-
+```
