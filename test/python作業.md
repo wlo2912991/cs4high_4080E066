@@ -75,3 +75,13 @@ while index < 99 :
     sum += index
 print(sum)
 ```
+
+```
+使用while 迴圈(loop)計算1*3*5*7.....*99
+sum=1
+index=1
+while index < 99 :
+    index += 2
+    sum *= index
+print(sum)
+```
