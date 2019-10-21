@@ -21,13 +21,19 @@ for index in range(0, 6):
 
 ```
 使用For 迴圈(loop)計算1+2+3+.....100
-```
-# while 迴圈(loop)
-
 sum=0
 for index in range(1,100):
     sum=sum+index
 print(sum)   //總和
+
+sum=0
+for index in range(1,100):
+    sum=sum+index
+    print(sum)   //過程
+```
+# while 迴圈(loop)
+
+
 
 ### 程式設計題
 
