@@ -42,7 +42,14 @@ for index in range(1,100,2):
 print(sum)
 
 ```
+```
+使用For 迴圈(loop)計算1*3*5*7.....*99
+sum=1
+for index in range(1,100,2):
+    sum *= index
+print(sum)
 
+```
 # while 迴圈(loop)
 
 
