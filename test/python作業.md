@@ -19,6 +19,7 @@ for index in range(0, 6):
 
 ```
 
+### 程式設計題
 ```
 使用For 迴圈(loop)計算1+2+3+.....100
 sum=0
@@ -31,11 +32,6 @@ for index in range(1,100):
     sum += index
     print(sum)   //過程
 ```
-# while 迴圈(loop)
-
-
-
-### 程式設計題
 
 ```
 使用For 迴圈(loop)計算1+3+5+7.....+99
@@ -46,6 +42,12 @@ for index in range(1,100,2):
 print(sum)
 
 ```
+
+# while 迴圈(loop)
+
+
+
+
 ### 程式設計題
 ```
 使用while 迴圈(loop)計算1+2+3+.....100
