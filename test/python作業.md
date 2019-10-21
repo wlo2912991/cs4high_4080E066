@@ -23,12 +23,12 @@ for index in range(0, 6):
 使用For 迴圈(loop)計算1+2+3+.....100
 sum=0
 for index in range(1,100):
-    sum=sum+index
+    sum += index
 print(sum)   //總和
 
 sum=0
 for index in range(1,100):
-    sum=sum+index
+    sum += index
     print(sum)   //過程
 ```
 # while 迴圈(loop)
@@ -42,7 +42,7 @@ for index in range(1,100):
 
 sum=0
 for index in range(1,100,2):
-    sum=sum+index
+    sum += index
 print(sum)
 
 ```
@@ -53,7 +53,7 @@ sum=0
 index=0
 while index < 100 :
     index += 1
-    sum=sum+index
+    sum += index
 print(sum)
 ```
 ```
@@ -63,6 +63,6 @@ sum=1
 index=1
 while index < 99 :
     index += 2
-    sum=sum+index
+    sum += index
 print(sum)
 ```
